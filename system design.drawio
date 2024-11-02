@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="YgW57Y4L1UE8_bnPbk4o">
-    <mxGraphModel>
+    <mxGraphModel dx="1878" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="svmyCBJZnnMni6jPKCAq-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="349.3" width="160" height="170.3" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svmyCBJZnnMni6jPKCAq-3" target="svmyCBJZnnMni6jPKCAq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
+          <mxGeometry x="255.91" y="429.6" width="69.27" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.skype_for_business_front_end_server;" vertex="1" parent="1">
+          <mxGeometry x="500" y="424.6" width="99" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svmyCBJZnnMni6jPKCAq-5" target="svmyCBJZnnMni6jPKCAq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svmyCBJZnnMni6jPKCAq-5" target="svmyCBJZnnMni6jPKCAq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0iIzAxOTYzOSIgZD0ibTE1Ljk0OCAyaC4wNjVhMTAuNDE4IDEwLjQxOCAwIDAgMSAuOTcyLjUyOHE1LjQyOSAzLjEyMiAxMC44NTggNi4yNDZhLjc5Mi43OTIgMCAwIDEgLjQxNC43ODhjLS4wMDggNC4zODkgMCA4Ljc3Ny0uMDA1IDEzLjE2NGEuODEzLjgxMyAwIDAgMSAtLjM1Ni41MDdxLTUuNzczIDMuMzI0LTExLjU0NyA2LjY0NGEuNTg3LjU4NyAwIDAgMSAtLjY1Ny4wMzdxLTUuNzgtMy4zMTQtMTEuNTQ5LTYuNjRhLjcuNyAwIDAgMSAtLjQtLjY2NnEwLTYuNTgyIDAtMTMuMTYzYS42OTMuNjkzIDAgMCAxIC4zODctLjY3cTUuNDIyLTMuMTE4IDEwLjg0NC02LjI0Yy4zMjItLjE4NC42MzgtLjM3OS45NzQtLjUzNSIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im04Ljc2NyAxMC41MzhxMCA1LjQyOSAwIDEwLjg1OWExLjUwOSAxLjUwOSAwIDAgMCAuNDI3IDEuMDg3IDEuNjQ3IDEuNjQ3IDAgMCAwIDIuMDYuMjA2IDEuNTY0IDEuNTY0IDAgMCAwIC42ODUtMS4yOTNjMC0yLjYyLS4wMDUtNS4yNCAwLTcuODZxMy41ODMgNC4yOSA3LjE4MSA4LjU2OGEyLjgzMyAyLjgzMyAwIDAgMCAyLjYuNzgyIDEuNTYxIDEuNTYxIDAgMCAwIDEuMjUxLTEuMzcxcS4wMDgtNS41NDEgMC0xMS4wODFhMS41ODIgMS41ODIgMCAwIDAgLTMuMTUyIDBjMCAyLjY2Mi0uMDE2IDUuMzIxIDAgNy45ODItMi4zNDYtMi43NjYtNC42NjMtNS41NTYtNy04LjMzMmEyLjgxNyAyLjgxNyAwIDAgMCAtMi42NDktMS4wNTIgMS41NzkgMS41NzkgMCAwIDAgLTEuNDAzIDEuNTA1eiIvPjwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svmyCBJZnnMni6jPKCAq-6" target="svmyCBJZnnMni6jPKCAq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-6" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.tls_appliance;" vertex="1" parent="1">
+          <mxGeometry x="356.8" y="70" width="108.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-9" value="Back end" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160.00000000000003" y="449.6" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-10" value="Front end" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="525" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="81.08" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="svmyCBJZnnMni6jPKCAq-12" target="svmyCBJZnnMni6jPKCAq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-21" value="https://nailstore.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195.91" y="60" width="94.09" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-22" value="https://nailstore.com/api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195.91" y="110" width="94.09" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-24" value="https://nailstore.com" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475.90999999999997" y="270" width="94.09" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svmyCBJZnnMni6jPKCAq-25" value="https://nailstore.com.api" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="270" width="94.09" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
